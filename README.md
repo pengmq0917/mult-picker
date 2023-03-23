@@ -6,7 +6,7 @@
 ### 效果如图
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/1c91561479a142cba4674eb18d91a1ac.png)
 
-### 复制一分uview的picker组件和checkbox组件的代码
+### 复制一份uview的picker组件和checkbox组件的代码
 1. origin-component/custom-checkbox/custom-checkbox.vue
 - 注释掉了uni.$u.error('u-checkbox必须搭配u-checkbox-group组件使用')，避免为写在u-checkbox-group组件下控制台报错
 ```html
